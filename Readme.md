@@ -82,7 +82,17 @@ Your report should contain:
   |-------------------|-----------------------|----------|-----|
   
 
-- **Written Summary** of observations and explanations of differences.  
+- **Written Summary** of observations and explanations of differences.
+
+## Attenuation Measurement 2.5 GB
+
+<img width="619" height="325" alt="image" src="https://github.com/user-attachments/assets/a1e7d9f4-0c4c-4aba-aeb4-a3ebddeccc8c" />
+
+## Attenuation Measurement 10 GB
+<img width="613" height="323" alt="image" src="https://github.com/user-attachments/assets/91bf506c-3a11-4c23-8f20-8ffe701b5b2c" />
+
+---
+
 ## Calculation and Tabulation
 
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/f087028a-7c3f-4458-a885-aec10e7a8bfd" />
